@@ -1,2 +1,10 @@
 node_modules
 mydb.sqlite
+**/node_modules
+
+**/dist
+
+*.sqlite
+
+.pm2/
+*.log
